@@ -7,7 +7,7 @@ const testimonials = [
     role: "Computer Science Student",
     university: "IIT BHU",
     quote:
-      "CollabHub helped me find amazing teammates for my machine learning project. We're now building something that could change the industry!",
+      "CrossXConnect helped me find amazing teammates for my machine learning project. We're now building something that could change the industry!",
     avatar: "bg-gradient-to-br from-blue-400 to-purple-500",
     rating: 5,
   },
@@ -16,7 +16,7 @@ const testimonials = [
     role: "Engineering Student",
     university: "SIT Nagpur",
     quote:
-      "I found a mentor through CollabHub who guided me through my first startup. The platform is incredible for networking across campuses.",
+      "I found a mentor through CrossXConnect who guided me through my first startup. The platform is incredible for networking across campuses.",
     avatar: "bg-gradient-to-br from-pink-400 to-red-500",
     rating: 5,
   },
@@ -25,7 +25,7 @@ const testimonials = [
     role: "Design Student",
     university: "PICT PUNE",
     quote:
-      "As a designer, I always struggled to find developers. CollabHub made it so easy to connect with talented engineers who share my vision.",
+      "As a designer, I always struggled to find developers. CrossXConnect made it so easy to connect with talented engineers who share my vision.",
     avatar: "bg-gradient-to-br from-purple-400 to-pink-500",
     rating: 5,
   },

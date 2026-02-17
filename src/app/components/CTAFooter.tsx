@@ -150,7 +150,7 @@ export function CTAFooter() {
         viewport={{ once: true }}
         transition={{ duration: 1, delay: 0.8 }}
       >
-        <p>© 2026 CollabHub. Built with ❤️ for students everywhere.</p>
+        <p>© 2026 CrossXConnect. Built with ❤️ for students everywhere.</p>
       </motion.div>
     </section>
   );
